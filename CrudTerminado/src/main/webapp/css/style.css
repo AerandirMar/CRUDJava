@@ -1,0 +1,56 @@
+
+body{
+    background-image: url(../img/fondoPred.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1
+{
+    margin: 1%;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+}
+
+.btn
+{
+    background-color:#a38374;
+}
+
+.btn:hover
+{
+    background-color: #3ec140;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+#agregar
+{
+    margin-top: 5%;
+}
+
+.form-control
+{
+    justify-content: center;
+    text-align: center;
+}
+
+.col-3
+{
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.col-md-3
+{
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3%;
+}
